@@ -15,6 +15,6 @@
 
 # 🚀 Comandos de instalação
 ```
-git clone https://github.com/matheusnsilvab/ModalSimples
+git clone https://github.com/matheusnsilvab/ModalSimples.git
 cd ModalSimples
 ```
